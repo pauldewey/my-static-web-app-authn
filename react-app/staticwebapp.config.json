@@ -4,8 +4,7 @@
   },
   "routes": [
     {
-      "route": "/api/products/*",
-      "allowedRoles": ["authenticated"]
+      "route": "/api/products/*"
     },
     {
       "route": "/.auth/login/aad",
